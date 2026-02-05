@@ -1,17 +1,18 @@
-# Newsletter sign-up form with success message
+# Time tracking dashboard
 
-![Design preview for the Newsletter sign-up form with success message coding challenge](./preview.jpg)
+WORK IN PROGRESS!
 
-**[View live solution](https://nicozoid.github.io/newsletter-signup-form)**
+![Design preview](./preview.jpg)
 
-This is a solution to a [challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv).
+**[View live solution](https://nicozoid.github.io/time-tracking-dashboard)**
+
+This is a solution to a [challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw).
 
 ### Learrnings
-- Used `flex-grow: 1` to keep the email address input at the bottom of the page on mobile viewports.
-- More sophisticated JavaScript.
+- 
 
 ### Challenges
-- Got temporarily scuppered by not noticing silly typos a few times.
+- 
 
 ### Current process
 1. Create HTML, inc. containers & class names, inc. text styles.
@@ -23,4 +24,3 @@ This is a solution to a [challenge on Frontend Mentor](https://www.frontendmento
 
 ### Questions
 I'm always interested in thoughts on whether there is a point in learning any this given the state of AI, or how we should adapt what we focus on in light of AI. I'm learning frontend coding in the belief that AI code still needs human oversight and I can't provide that oversight without coding proficiency. I wonder if even that will be true in a year though.# newsletter-signup-form
-# time-tracking-dashboard
