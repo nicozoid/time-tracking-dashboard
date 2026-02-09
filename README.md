@@ -6,11 +6,8 @@
 
 This is a solution to a [challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw).
 
-### Learrnings
-- 
-
-### Challenges
-- 
+### Key learnings
+First time working with JSON and updating a single page's content dynamically based on user interactions.
 
 ### Current process
 #### Setup
@@ -34,4 +31,4 @@ This is a solution to a [challenge on Frontend Mentor](https://www.frontendmento
 1. CSS styling for tablet and desktop
 
 ### Questions
-I'm always interested in thoughts on whether there is a point in learning any this given the state of AI, or how we should adapt what we focus on in light of AI. I'm learning frontend coding in the belief that AI code still needs human oversight and I can't provide that oversight without coding proficiency. I wonder if even that will be true in a year though.# newsletter-signup-form
+I'm learning frontend coding in the belief that AI code still needs human oversight and I can't provide that oversight without coding proficiency. I wonder if even that will be true in a year though. I'm very interested in others' thoughts on this question!
