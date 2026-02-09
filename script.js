@@ -4,7 +4,7 @@ const btnMonthly = document.getElementById('monthly-btn');
 
 let timeData;
 
-fetch('/data.json')
+fetch('./data.json')
     .then(
         (response) => {
             console.log('fetching data');
